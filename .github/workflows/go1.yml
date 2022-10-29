@@ -41,5 +41,5 @@ jobs:
 
     - name: push container image  
       run: | 
-       docker push nixvarghese03/monitoring:latest 
+       docker push nixvarghese03/prometheus-sample-app:latest 
   
